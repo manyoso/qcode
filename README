@@ -1,0 +1,29 @@
+So begins QCode.
+
+GOALS:
+1. Simple
+2. Powerful
+3. Cross platform
+4. Minimal dependencies 
+5. Extensible
+6. Scriptable
+7. Work how I would like it
+
+FEATURES:
+1. Out of source builds
+2. Can share projects
+3. Multiple mainwindows
+4. Support C++ language
+5. Built-in make
+6. Built-in execute
+7. Switch header/source
+8. Embedded terminal
+9. Code formatting plugin
+10. Find (in files)
+11. Find and replace (in files)
+12. Qt designer built-in
+13. Syntax highlighter
+14. Quick open
+15. Scriptable
+
+On towards 1.0...

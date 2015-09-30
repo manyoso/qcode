@@ -1,0 +1,8 @@
+1. Come up with a design for the singletons
+2. Quick open for build dir, source dir, make files, source files, all files... and shortcuts
+3. Crazy UI ideas like no docks, all in central widget, graphicsview animations for switching
+4. Load object files and query Qt metadata for codeview?
+5. Psuedo terminal implementation and feasibility... custom commands for qcode in terminal?
+6. Threaded file info in output view
+7. Actually embed vim or emacs?
+
